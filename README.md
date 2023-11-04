@@ -3,10 +3,9 @@
 * Demo: https://simplephonebook.netlify.app
 
 ## Tech
-* React
-* React Bootstrap
-* Redux-thunk
-* React MUI
+![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=Redux)
+![MUI](https://img.shields.io/badge/-MUI-grey?style=for-the-badge&logo=MUI)
 
 ## Function
 * Add Contact
